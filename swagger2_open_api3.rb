@@ -59,4 +59,4 @@ class Swagger2OpenApi3
   end
 end
 
-Swagger2OpenApi.from_commandline
+Swagger2OpenApi3.from_commandline
